@@ -143,7 +143,7 @@ export default function Timeline() {
                 <Button variant='outlined' onClick={changeModo}>{modo.nombre === 'grande' ? 'Modo pequeño' : 'Modo grande'}</Button>
             </Box>
             
-            <Box position='sticky' top={0} sx={{ my: 2 }} height='85px' zIndex={1000}>
+            <Box position='sticky' top={0} sx={{ my: 2, overflow: 'hidden' }} height='85px' zIndex={1000}>
                 <Box position='relative'>
 
                 
