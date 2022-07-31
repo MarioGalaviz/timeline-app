@@ -3,8 +3,47 @@
 ## Roadmap
 
 - No fijar periodos en mobile
+- ¿Letras más pequeñas en mobile?
 - Agregar a:
     - Shakespeare
     - Miguel de Cervantes
     - Walter Benjamin
     - Rene Girard
+    - Ray Dalio
+    - Elon Musk
+    - Steve Jobs
+    - Bill Gates
+    - Galileo
+    - Descartes
+    - Rubens
+    - Velazquez
+    - Voltaire
+    - Napoleon
+    - Mahler
+    - Derrida
+    - Levi-Strauss
+- Simbología de colores
+- Filtro por tipo de persona
+- Agregar eventos:
+    - Libro: Cien años de soledad, piense y hágase rico, The Hero with a Thousand Faces
+    - Guerra: la de 30 años
+    - Creación de la Dutch East India Company
+    - Creación de microsoft, apple, netflix, starbucks, walmart, Ford, nike, coca, procter, google, amazon, levis, telmex, televisa, grupo mexico, bimbo,  J.P. Morgan & Co., Carnegie Steel Company, Standard Oil Company
+    - Creción de internet
+    - Primeras computadoras
+    - Guerra de vietnam
+    - Crisis de los misiles
+    - Gran depresión
+    - Albumes: dark side of the moon, beatles, hendrix,
+    - Woodstock
+    - Empire state
+    - Obras: 5a sinfonía
+- Poner datos de contacto
+- Mostrar info on hover (años?) y on click (influencias, influenciados, qué otra cosa tenemos?)
+- ¿Qué periodo agregamos antes de la revolución industrial?
+- Si el evento está muy a la derecha, poner las letras a la izquierda
+- ¿Ampliar periodo?
+- ¿Poder editar periodo?
+- ¿Poder filtrar personas y eventos?
+- Pasar info a obsidian y linkear
+- ¿Google analytics?
